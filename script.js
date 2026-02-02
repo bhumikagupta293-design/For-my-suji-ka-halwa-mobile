@@ -1,9 +1,11 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
+    "Pakke waala sure??",
     "Pookie please...",
     "Just think about it!",
     "If you say no, I will cry...",
+    "I will really cry",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
